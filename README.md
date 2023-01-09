@@ -30,7 +30,7 @@
 [twitter]: https://twitter.com/nfarmer0101
 [youtube]: https://www.youtube.com/c/nfarmer0101
 [linkedin]: https://linkedin.com/in/nfarmer48
-[medium]: https://medium.com/in/@nfarmer48
+[medium]: https://medium.com/in/@nfarmer0101
 
 
 <!--
