@@ -15,26 +15,24 @@
 - [CompTIA A+ ce](https://www.credly.com/badges/df7b8824-c517-4ae0-a87d-beb0c0e0fc31/public_url)
 - [CompTIA Security+ ce](https://www.credly.com/badges/bd5c4305-224d-4277-b7bb-a5cd7d1d1c54/public_url)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular Medium Blogs</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NicholasFarmer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NicholasFarmer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NicholasFarmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NicholasFarmer | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
 [twitter]: https://twitter.com/nfarmer0101
-[youtube]: https://www.youtube.com/c/nfarmer0101
 [linkedin]: https://linkedin.com/in/nfarmer48
 [medium]: https://medium.com/in/@nfarmer0101
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nfarmer0101/nfarmer0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
