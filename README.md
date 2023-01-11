@@ -4,15 +4,11 @@
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/nfarmer0101/Active-Directory-User-Creation)
-- <b>Python</b>
-  - b
-- <b>Linux</b>
-  - d
+
 
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+ce](https://www.credly.com/badges/bd5c4305-224d-4277-b7bb-a5cd7d1d1c54/public_url)
-- Microsoft AZ-900 Fundamentals
 - [CompTIA A+ce](https://www.credly.com/badges/df7b8824-c517-4ae0-a87d-beb0c0e0fc31/public_url)
 
 <h2>📺 Popular Medium Blogs</h2>
