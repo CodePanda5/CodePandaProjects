@@ -20,7 +20,7 @@
 
 <h2>📺 Popular Medium Blogs</h2>
 
-- [Active Directory Home Lab](https://medium.com/@nfarmer0101/easy-home-lab-for-entry-into-it-setting-up-microsoft-active-directory-using-oracle-virtualbox-80a6a2a9e7d0)
+- [Active Directory Home Lab: Bulk User Creation](https://medium.com/@nfarmer0101/easy-home-lab-for-entry-into-it-setting-up-microsoft-active-directory-using-oracle-virtualbox-80a6a2a9e7d0)
 
 <h2> 🤳 Connect with me:</h2>
 
