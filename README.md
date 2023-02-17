@@ -11,7 +11,7 @@
 - [CompTIA Security+ce](https://www.credly.com/badges/bd5c4305-224d-4277-b7bb-a5cd7d1d1c54/public_url)
 - [CompTIA A+ce](https://www.credly.com/badges/df7b8824-c517-4ae0-a87d-beb0c0e0fc31/public_url)
 
-<h2>📺 Popular Medium Blogs</h2>
+<h2>📺 Popular Tech Blogs</h2>
 
 - [Active Directory Home Lab: Bulk User Creation](https://medium.com/@nfarmer0101/easy-home-lab-for-entry-into-it-setting-up-microsoft-active-directory-using-oracle-virtualbox-80a6a2a9e7d0)
 
