@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nfarmer48/">Cybersecurity Professional</a>, <a href="https://github.com/nfarmer0101">Python Programmer</a>, <a href="https://www.medium.com/@nfarmer0101">Tech Writer</a></h1>
+<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nfarmer48/">Cybersecurity Professional</a> | <a href="https://github.com/nfarmer0101">Programmer</a> | <a href="https://www.medium.com/@nfarmer0101">Tech Writer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
