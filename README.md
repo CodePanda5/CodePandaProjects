@@ -22,9 +22,9 @@
 [<img align="left" alt="NicholasFarmer | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
-[twitter]: https://twitter.com/nfarmer0101
+[twitter]: https://twitter.com/thecyberfarmer
 [linkedin]: https://linkedin.com/in/nfarmer48
-[medium]: https://medium.com/in/@nfarmer0101
+[medium]: https://medium.com/in/@thecyberfarmer
 
 
 <!--
